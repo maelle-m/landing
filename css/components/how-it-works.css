@@ -1,0 +1,13 @@
+.how-it-works h1 {
+  font-size: 25px;
+  text-align: center;
+  justify-content: center;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.how-it-works {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
